@@ -1,0 +1,17 @@
+PRÁCTICA FINAL DEL MÓDULO HTML
+
+En este ejercicio final se ha preparado un "website" cuya finalidad recae en el servivio de mascotas. Dicha web se llama "OURPETS.com". Se compone de los siguientes apartados:
+
+a)Una barra de inicio donde se presenta una serie de enlaces para conectar a los distintos puntos de la web.
+
+b)El primer apartado, ¿Who are you?, se hace una descripción
+de quienes son los fundadores de esta empresa de servicios a 
+mascotas.
+
+c)En el siguiente apartado, Our servicies, se describe los diferentes servicios que dicha empresa proporciona para sus
+mascotas.
+
+d)A continuación, se presenta una pequeña tabla de las diferentes tarifas que se imponen por los servivios ofrecidos.
+
+e)Por último, se tiene preparado en el pie de página un pequeño formulario donde el usuario/s pueden ponerse en contacto con el personal para pedir cita o realizar una reserva para el cuidado de su mascota.  
+  
